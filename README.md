@@ -1,3 +1,3 @@
 # GameNudelCommunity.de
-<button> "Cool"
+<!DOCTYPE html>
   
