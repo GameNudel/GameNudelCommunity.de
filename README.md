@@ -1,3 +1,3 @@
 # GameNudelCommunity.de
-<button> "name:Cool"
+<button> "Cool"
   
