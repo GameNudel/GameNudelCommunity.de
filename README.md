@@ -2,10 +2,12 @@
 <!DOCTYPE html>
 <html>
 
-<head></head>
+<head>
+<link rel="Youtube" href="https://www.youtube.com/channel/UCfygxpjDzkb3Csf8oL9CWZQ?view_as=subscriber"
+</head>
 
 <body>
-  <div>
+  <div id="wrapper">
     <header>Das ist die offiziele Seite von GameNudel.</header>
     <section>GameNudel ist ein Youtuber der manchmal Videos bringt.</section>
     <aside>Sachen die er auf seinen chanel bringt:Minecraft;Mods,KeineAhnung und weiteres minecraft..;Reactions und fall guys.</aside>
