@@ -3,7 +3,7 @@
 <html>
 
 <head>
-<link rel="Youtube" href="https://www.youtube.com/channel/UCfygxpjDzkb3Csf8oL9CWZQ?view_as=subscriber"
+<link rel="stylesheet" href="style.css" typ="text/css"
 </head>
 
 <body>
